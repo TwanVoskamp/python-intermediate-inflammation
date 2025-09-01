@@ -11,4 +11,8 @@
 # Python runtime
 *.pyc
 *.egg-info
+
 .pytest_cache
+
+# Virtual Environment
+inflammation_venv/
